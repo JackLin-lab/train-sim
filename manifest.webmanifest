@@ -1,0 +1,17 @@
+{
+  "name": "臺鐵駕駛模擬器",
+  "short_name": "臺鐵模擬器",
+  "description": "屏東到臺北的臺鐵駕駛模擬器",
+  "start_url": "./",
+  "scope": "./",
+  "display": "fullscreen",
+  "orientation": "portrait",
+  "background_color": "#040812",
+  "theme_color": "#040812",
+  "lang": "zh-TW",
+  "icons": [
+    { "src": "train-icon-192.png", "sizes": "192x192", "type": "image/png" },
+    { "src": "train-icon-512.png", "sizes": "512x512", "type": "image/png" },
+    { "src": "train-icon-maskable.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}
